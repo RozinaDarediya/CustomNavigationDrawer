@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorDark">#f58734</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorBlue">#ff0000</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackOverlay">#80000000</color>
+
+    <color name="colorGrey">#95989A</color>
+    <color name="colorGreyOverlay">#808c8686</color>
+    <color name="colorGreyLight">#80b9afaf</color>
+
+
+    <color name="colorJobPost">#004976</color>
+    <color name="colorProductPost">#203c09</color>
+    <color name="colorAdvertise">#6d0058</color>
+    <color name="colorCandidate">#91251d</color>
+    <!--   <color name="colorCandidate">#f58734</color>-->
+    <color name="colorTemple">#eac800</color>
+    <color name="colorpurple">#6d0058</color>
+    <color name="colorTransparent">#6e000000</color>
+    <!--End Application-->
+
+
+    <!--For view-->
+    <color name="viewBgColor">#AAAAAA</color>
+    <!--Button Style-->
+    <!--   <color name="btnBg">#91251d</color>-->
+    <color name="btnBg">#f58734</color>
+    <color name="btnTextColor">#ffffff</color>
+
+    <!--EditText Style-->
+    <color name="etBg">#91251d</color>
+    <color name="etTextColor">#000000</color>
+    <color name="etTextHintColor">#95989A</color>
+
+    <!--TextView Style-->
+    <color name="tvTextBlackColor">#000000</color>
+    <color name="tvTextGreyColor">#95989A</color>
+
+    <!--View style-->
+    <color name="viewColor">#000000</color>
+
+    <!-- Navigation Items Color-->
+    <color name="nav_tint_color">#101C65</color>
+    <color name="nav_font_color">#101C65</color>
+    <color name="separator">#101C65</color>
+</resources>
